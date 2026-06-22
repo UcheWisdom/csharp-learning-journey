@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\bin\Debug\net10.0\Lesson03-Loops.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\bin\Debug\net10.0\Lesson03-Loops.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\bin\Debug\net10.0\Lesson03-Loops.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\bin\Debug\net10.0\Lesson03-Loops.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\bin\Debug\net10.0\Lesson03-Loops.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\refint\Lesson03-Loops.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\Lesson03-Loops.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson03-Loops\obj\Debug\net10.0\ref\Lesson03-Loops.dll
