@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\bin\Debug\net10.0\Lesson05-Algorithms.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\bin\Debug\net10.0\Lesson05-Algorithms.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\bin\Debug\net10.0\Lesson05-Algorithms.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\bin\Debug\net10.0\Lesson05-Algorithms.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\bin\Debug\net10.0\Lesson05-Algorithms.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\refint\Lesson05-Algorithms.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\Lesson05-Algorithms.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson05-Algorithms\obj\Debug\net10.0\ref\Lesson05-Algorithms.dll
