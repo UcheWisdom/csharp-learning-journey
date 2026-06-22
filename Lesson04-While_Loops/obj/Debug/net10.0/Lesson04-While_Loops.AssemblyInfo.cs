@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson04-While_Loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+340025a2d90ab449e34b4bcdcc8c8bd2a8f0c71e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+147bdcc83aaaed27a5f4795bcc5368591464b08b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson04-While_Loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson04-While_Loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
