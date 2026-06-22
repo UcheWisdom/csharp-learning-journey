@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\bin\Debug\net10.0\Lesson08-LINQ.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\bin\Debug\net10.0\Lesson08-LINQ.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\bin\Debug\net10.0\Lesson08-LINQ.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\bin\Debug\net10.0\Lesson08-LINQ.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\bin\Debug\net10.0\Lesson08-LINQ.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\refint\Lesson08-LINQ.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\Lesson08-LINQ.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson08-LINQ\obj\Debug\net10.0\ref\Lesson08-LINQ.dll
