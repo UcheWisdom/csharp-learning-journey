@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\bin\Debug\net10.0\Lesson07-Lists.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\bin\Debug\net10.0\Lesson07-Lists.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\bin\Debug\net10.0\Lesson07-Lists.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\bin\Debug\net10.0\Lesson07-Lists.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\bin\Debug\net10.0\Lesson07-Lists.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\refint\Lesson07-Lists.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\Lesson07-Lists.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson07-Lists\obj\Debug\net10.0\ref\Lesson07-Lists.dll
