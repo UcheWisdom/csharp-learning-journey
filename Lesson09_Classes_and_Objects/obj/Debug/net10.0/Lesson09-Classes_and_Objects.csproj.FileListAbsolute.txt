@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\bin\Debug\net10.0\Lesson09-Classes_and_Objects.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\bin\Debug\net10.0\Lesson09-Classes_and_Objects.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\bin\Debug\net10.0\Lesson09-Classes_and_Objects.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\bin\Debug\net10.0\Lesson09-Classes_and_Objects.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\bin\Debug\net10.0\Lesson09-Classes_and_Objects.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\refint\Lesson09-Classes_and_Objects.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\Lesson09-Classes_and_Objects.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson09-Classes_and_Objects\obj\Debug\net10.0\ref\Lesson09-Classes_and_Objects.dll
