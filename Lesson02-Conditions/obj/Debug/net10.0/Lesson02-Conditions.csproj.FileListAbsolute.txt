@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\bin\Debug\net10.0\Lesson02-Conditions.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\bin\Debug\net10.0\Lesson02-Conditions.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\bin\Debug\net10.0\Lesson02-Conditions.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\bin\Debug\net10.0\Lesson02-Conditions.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\bin\Debug\net10.0\Lesson02-Conditions.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\refint\Lesson02-Conditions.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\Lesson02-Conditions.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson02-Conditions\obj\Debug\net10.0\ref\Lesson02-Conditions.dll
