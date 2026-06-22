@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\bin\Debug\net10.0\Lesson06-Arrays.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\bin\Debug\net10.0\Lesson06-Arrays.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\bin\Debug\net10.0\Lesson06-Arrays.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\bin\Debug\net10.0\Lesson06-Arrays.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\bin\Debug\net10.0\Lesson06-Arrays.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\refint\Lesson06-Arrays.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\Lesson06-Arrays.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson06-Arrays\obj\Debug\net10.0\ref\Lesson06-Arrays.dll
