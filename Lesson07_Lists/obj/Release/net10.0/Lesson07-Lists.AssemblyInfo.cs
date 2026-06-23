@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson07-Lists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691111fea8baa10c1a151f2b3663a735529f508c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1941769f8093229062caa73ac8c73a0525b872")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson07-Lists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson07-Lists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
