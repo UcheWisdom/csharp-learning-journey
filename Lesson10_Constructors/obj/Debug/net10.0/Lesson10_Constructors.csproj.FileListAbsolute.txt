@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\bin\Debug\net10.0\Lesson10_Constructors.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\bin\Debug\net10.0\Lesson10_Constructors.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\bin\Debug\net10.0\Lesson10_Constructors.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\bin\Debug\net10.0\Lesson10_Constructors.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\bin\Debug\net10.0\Lesson10_Constructors.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\refint\Lesson10_Constructors.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\Lesson10_Constructors.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lesson10_Constructors\obj\Debug\net10.0\ref\Lesson10_Constructors.dll
