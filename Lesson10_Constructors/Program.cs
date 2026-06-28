@@ -1,21 +1,25 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 
+class Student
+{
+    public string Name;
+    public int Age;
+    public int Score;
+
+    public Student(string name, int age, int score)
+    {
+        Name = name;
+        Age = age;
+        Score = score;
+    }
+}
+
 class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Constructors");
+        
 
-
-        Console.Write("enter the value of A: ");
-        int a;
-        while(!int.TryParse(Console.ReadLine(), out a))
-        {
-            Console.WriteLine("invalid number!, Try Agin");
-            Console.Write("enter the value of A: ");
-        }
-
-    })
     }
 }
