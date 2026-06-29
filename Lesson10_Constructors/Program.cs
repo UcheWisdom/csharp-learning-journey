@@ -19,7 +19,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        
-
+        Student s1 = new Student("wisdom", 22, 85);
+        Student s2 = new Student("Precious", 20, 90);
     }
 }
