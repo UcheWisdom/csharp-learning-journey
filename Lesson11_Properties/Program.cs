@@ -19,6 +19,10 @@ class Student
             {
                 score = value;
             }
+            else
+            {
+                Console.WriteLine("Invalid score. Please enter a value between 0 and 100.");
+            }
         }
     }
 }
