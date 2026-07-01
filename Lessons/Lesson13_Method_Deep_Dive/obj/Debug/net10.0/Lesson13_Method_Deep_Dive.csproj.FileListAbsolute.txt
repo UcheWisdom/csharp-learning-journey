@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\bin\Debug\net10.0\Lesson13_Method_Deep_Dive.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\bin\Debug\net10.0\Lesson13_Method_Deep_Dive.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\bin\Debug\net10.0\Lesson13_Method_Deep_Dive.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\bin\Debug\net10.0\Lesson13_Method_Deep_Dive.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\bin\Debug\net10.0\Lesson13_Method_Deep_Dive.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\refint\Lesson13_Method_Deep_Dive.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\Lesson13_Method_Deep_Dive.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson13_Method_Deep_Dive\obj\Debug\net10.0\ref\Lesson13_Method_Deep_Dive.dll
