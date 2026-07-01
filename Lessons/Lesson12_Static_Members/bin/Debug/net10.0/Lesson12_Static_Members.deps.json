@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lesson12_Static_Members/1.0.0": {
+        "runtime": {
+          "Lesson12_Static_Members.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson12_Static_Members/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
