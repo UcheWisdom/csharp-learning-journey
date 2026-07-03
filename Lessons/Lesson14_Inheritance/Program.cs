@@ -32,6 +32,7 @@ class Student : Person
 
     public override void DisplayInfo()
     {
+        Console.WriteLine("====== Student ======");
         base.DisplayInfo();
         Console.WriteLine($"Score : {Score}");
     }
@@ -47,6 +48,7 @@ class Teacher : Person
 
     public override void DisplayInfo()
     {
+        Console.WriteLine("====== Teacher ======");
         base.DisplayInfo();
         Console.WriteLine($"Salary : {Salary}");
     }
