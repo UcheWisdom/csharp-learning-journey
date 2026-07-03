@@ -5,37 +5,40 @@ class Person
     public string Name { get; set; }
     public int Age { get; set; }
     public string Email { get; set; }
+
+    public Person(string name, int age, string email)
+    {
+        Name = name;
+        Age = age;
+        Email = email;
+    }
 }
 
 class Student : Person
 {
     public int Score { get; set; }
+    public Student (string name, int age, string email, int score) : base(name, age, email)
+    {
+        Score = score;
+    }
 }
 
 class Teacher : Person
 {
     public decimal Salary { get; set; }
+    public Teacher(string name, int age, string email, decimal salary) : base(name, age, email)
+    {
+        Salary = salary;
+    }
 }
 
 class Program
 {
     static void Main(string[] args)
     {
-        Student student = new Student
-        {
-            Name = "Alice",
-            Age = 20,
-            Email = "ali@ce.com",
-            Score = 95
-        };
+        Student student = new Student("Alice", 20, "ali@e.com", 90);
 
-        Teacher teacher = new Teacher
-        {
-            Name = "Bob",
-            Age = 40,
-            Email = "bo@g.com",
-            Salary = 50000m
-        };
+        Teacher teacher = new Teacher("Bob", 40, "bo@b.com", 50000m);
 
 
         //Console.WriteLine($"Student: {student.Name}, Age: {student.Age}, Email: {student.Email}, Score: {student.Score}");
