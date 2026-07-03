@@ -12,6 +12,14 @@ class Person
         Age = age;
         Email = email;
     }
+
+    public virtual void DisplayInfo()
+    {
+        Console.WriteLine($"Name  : {Name}");
+        Console.WriteLine($"Age   : {Age}");
+        Console.WriteLine($"Email : {Email}");
+
+    }
 }
 
 class Student : Person
@@ -21,6 +29,12 @@ class Student : Person
     {
         Score = score;
     }
+
+    public override void DisplayInfo()
+    {
+        base.DisplayInfo();
+        Console.WriteLine($"Score : {Score}");
+    }
 }
 
 class Teacher : Person
@@ -29,6 +43,12 @@ class Teacher : Person
     public Teacher(string name, int age, string email, decimal salary) : base(name, age, email)
     {
         Salary = salary;
+    }
+
+    public override void DisplayInfo()
+    {
+        base.DisplayInfo();
+        Console.WriteLine($"Salary : {Salary}");
     }
 }
 
@@ -41,20 +61,10 @@ class Program
         Teacher teacher = new Teacher("Bob", 40, "bo@b.com", 50000m);
 
 
-        //Console.WriteLine($"Student: {student.Name}, Age: {student.Age}, Email: {student.Email}, Score: {student.Score}");
-        //Console.WriteLine($"Teacher: {teacher.Name}, Age: {teacher.Age}, Email: {teacher.Email}, Salary: ${teacher.Salary}");
+        student.DisplayInfo();
 
-        Console.WriteLine("Student Information");
-        Console.WriteLine($"Name  : {student.Name}");
-        Console.WriteLine($"Age   : {student.Age}");
-        Console.WriteLine($"Email : {student.Email}");
-        Console.WriteLine($"Score : {student.Score}");
         Console.WriteLine();
-        Console.WriteLine("Teacher Information");
-        Console.WriteLine($"Name  : {teacher.Name}");
-        Console.WriteLine($"Age   : {teacher.Age}");
-        Console.WriteLine($"Email : {teacher.Email}");
-        Console.WriteLine($"Salary : {teacher.Salary}");
 
+        teacher.DisplayInfo();
     }
 }
