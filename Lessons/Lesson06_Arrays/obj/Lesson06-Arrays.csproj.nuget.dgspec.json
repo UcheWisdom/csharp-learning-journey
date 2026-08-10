@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson06-Arrays\\Lesson06-Arrays.csproj": {}
+    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson06_Arrays\\Lesson06-Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson06-Arrays\\Lesson06-Arrays.csproj": {
+    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson06_Arrays\\Lesson06-Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson06-Arrays\\Lesson06-Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson06_Arrays\\Lesson06-Arrays.csproj",
         "projectName": "Lesson06-Arrays",
-        "projectPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson06-Arrays\\Lesson06-Arrays.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson06_Arrays\\Lesson06-Arrays.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson06-Arrays\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson06_Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.sourcelink.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\bin\Debug\net10.0\Lesson15_Polymorphism.exe
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\bin\Debug\net10.0\Lesson15_Polymorphism.deps.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\bin\Debug\net10.0\Lesson15_Polymorphism.runtimeconfig.json
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\bin\Debug\net10.0\Lesson15_Polymorphism.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\bin\Debug\net10.0\Lesson15_Polymorphism.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\refint\Lesson15_Polymorphism.dll
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.pdb
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\Lesson15_Polymorphism.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp-learning-journey\Lessons\Lesson15_Polymorphism\obj\Debug\net10.0\ref\Lesson15_Polymorphism.dll

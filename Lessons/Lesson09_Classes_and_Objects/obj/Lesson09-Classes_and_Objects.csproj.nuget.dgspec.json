@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson09-Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj": {}
+    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson09_Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson09-Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj": {
+    "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson09_Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson09-Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson09_Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj",
         "projectName": "Lesson09-Classes_and_Objects",
-        "projectPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson09-Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson09_Classes_and_Objects\\Lesson09-Classes_and_Objects.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lesson09-Classes_and_Objects\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\csharp-learning-journey\\Lessons\\Lesson09_Classes_and_Objects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
