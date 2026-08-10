@@ -99,7 +99,7 @@ Create a parent Person class
 
     ↓
 
-Create Student and Teacher child classes
+Create Student, Teacher and Administrator child classes
 
     ↓
 
@@ -136,3 +136,15 @@ Display the object-specific information
     ↓
 
 End
+
+## Loose Coupling
+
+Polymorphism allows code to depend on a general parent type rather than specific child classes.
+
+## Extensibility
+
+New child classes can be added without modifying the existing polymorphic processing logic.
+
+## Runtime Method Selection
+
+The declared type determines what members are accessible at compile time, while the actual object type determines which overridden method executes at runtime.

@@ -55,6 +55,28 @@ class Teacher : Person
     }
 }
 
+class Administrator : Person
+{
+    public string Department { get; set; }
+
+    public Administrator(
+        string name,
+        int age,
+        string email,
+        string department
+    ) : base(name, age, email)
+    {
+        Department = department;
+    }
+
+    public override void DisplayInfo()
+    {
+        Console.WriteLine("====== Administrator ======");
+        base.DisplayInfo();
+        Console.WriteLine($"Department : {Department}");
+    }
+}
+
 class Program
 {
     static void Main(string[] args)
@@ -65,7 +87,7 @@ class Program
             new Student(
                 "Alice",
                 20,
-                "ali@e.com",
+                "alice@email.com",
                 90
             )
         );
@@ -74,7 +96,7 @@ class Program
             new Teacher(
                 "Bob",
                 40,
-                "bo@b.com",
+                "bob@email.com",
                 50000m
             )
         );
@@ -88,10 +110,20 @@ class Program
             )
         );
 
+        people.Add(
+            new Administrator(
+                "David",
+                35,
+                "david@email.com",
+                "IT Department"
+            )
+        );
+
         foreach (Person person in people)
         {
             person.DisplayInfo();
             Console.WriteLine();
         }
+
     }
 }

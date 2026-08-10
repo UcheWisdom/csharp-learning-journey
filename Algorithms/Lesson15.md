@@ -14,7 +14,7 @@ Create Person parent class
 
     ↓
 
-Create Student and Teacher child classes
+Create Student, Teacher and Administrator child classes
 
     ↓
 
