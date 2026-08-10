@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Person
 {
@@ -63,8 +64,8 @@ class Program
         people.Add(
             new Student(
                 "Alice",
-                20, 
-                "ali@e.com", 
+                20,
+                "ali@e.com",
                 90
             )
         );
@@ -87,16 +88,10 @@ class Program
             )
         );
 
-        //Student student = new Student("Alice", 20, "ali@e.com", 90);
-        //Teacher teacher = new Teacher("Bob", 40, "bo@b.com", 50000m);
-
-        foreach(Person person in people )
+        foreach (Person person in people)
         {
-
             person.DisplayInfo();
-
             Console.WriteLine();
         }
-
     }
 }

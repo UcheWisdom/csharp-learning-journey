@@ -9,47 +9,28 @@
 ## Algorithm
  
 Start
-
-    ↓
-
+ ↓
 Create Person parent class
-
-    ↓
-
-Create Student class
-
-    ↓
-
-Create Teacher class
-
-    ↓
-
+ ↓
+Create Student and Teacher child classes
+ ↓
 Override DisplayInfo()
-
-    ↓
-
+ ↓
 Create List<Person>
-
-    ↓
-
-Store Student objects
-
-    ↓
-
-Store Teacher objects
-
-    ↓
-
+ ↓
+Add Student object
+ ↓
+Add Teacher objects
+ ↓
 Loop through List<Person>
-
-    ↓
-
+ ↓
 Call DisplayInfo()
-
-    ↓
-
-Runtime chooses correct overridden method
-
-    ↓
-
+ ↓
+Runtime identifies actual object type
+ ↓
+Student → Student.DisplayInfo()
+Teacher → Teacher.DisplayInfo()
+ ↓
+Display appropriate information
+ ↓
 End
